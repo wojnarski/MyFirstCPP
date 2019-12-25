@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1577303982 source:/home/witek/CodeBlocks/nie wime/main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+
